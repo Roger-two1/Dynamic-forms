@@ -10,7 +10,7 @@ function App() {
       <div className="flex justify-center m-3">
         <div className="text-center py-2 px-2 rounded-md border-2 border-green-600 w-fit hover:bg-green-600 hover:text-white">
           <a
-            href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-Yix7s2f0fpW01ia0QF73dj8hucgawR07DVA-Vk9yNcAQFGfmRiMhE-1nZx6R8P8s3djqlS2lwjW9/pubhtml?gid=604154347&single=true"
+            href="https://docs.google.com/spreadsheets/d/1grlTK00rSbve9DIqIHBUtyukmiM6ONO7ITONaWMkXCQ/edit?gid=604154347#gid=604154347"
             target="_blank"
           >
             Google Sheet
